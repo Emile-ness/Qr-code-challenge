@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
-(./imgaes/mapreview.png)
+![mon design prewiew](./imgaes/mapreview.png)
 
 ## Welcome! 👋
 
