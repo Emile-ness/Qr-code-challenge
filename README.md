@@ -11,7 +11,7 @@ Thanks for checking out this front-end coding challenge.
 /images/
 
 ## links
-live site url : ![live site](https://emile-ness.github.io/Qr-code-challenge/)
+live site url : [live site](https://emile-ness.github.io/Qr-code-challenge/)
 
 ## Where to find everything
 
